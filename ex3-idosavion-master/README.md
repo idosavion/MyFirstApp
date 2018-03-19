@@ -1,0 +1,12 @@
+idosavion
+example1\lena_color.jpg
+example1\mask_2.jpg
+example1\nat_pic_for_mask.jpg
+example2\givat_ram.JPG
+example2\wolf_im.JPG
+example2\wolf_mask.JPG
+answer_q1.txt
+answer_q2.txt
+answer_q3.txt
+sol3.py
+sol1.py
